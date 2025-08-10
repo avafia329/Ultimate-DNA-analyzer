@@ -4,3 +4,4 @@ reportlab
 gunicorn
 numpy
 pandas
+matplotlib
