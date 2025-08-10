@@ -1,0 +1,6 @@
+Flask
+biopython
+reportlab
+gunicorn
+numpy
+pandas
